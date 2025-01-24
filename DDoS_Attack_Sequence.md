@@ -2,11 +2,11 @@
 
 ```mermaid
 sequenceDiagram
-    box black Attacker and Botnet
+    box Attacker and Botnet
     actor Attacker
     participant Botnet
     end
-    box blue Firewall/Server
+    box Firewall/Server
     participant Firewall
     participant Server
     end
